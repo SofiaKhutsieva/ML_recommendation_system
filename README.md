@@ -24,4 +24,12 @@
   
 
 **сравнение моделей:**  
-![image](https://github.com/SofiaKhutsieva/ML_recommendation_system/assets/73535658/1eb43473-928f-4469-9bfd-471d09135334)
+
+![image](https://github.com/SofiaKhutsieva/ML_recommendation_system/assets/73535658/a0f443d4-6391-47f7-bc7a-2e0a1c9cc7f5)
+
+
+**инференс:**  
+- По идентификатору пользователя выдается набор из K наиболее релевантных для него товаров.  
+- По массиву идентификаторов пользователей выдается массив наборов из K наиболее релевантных для них товаров.  
+
+![image](https://github.com/SofiaKhutsieva/ML_recommendation_system/assets/73535658/d54126ff-e97c-4675-9669-e320c9d60f7a)
