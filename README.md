@@ -14,11 +14,11 @@
 `download_dataset` - Загрузка и объединение датасетов  
 `define_top_10_per_user` - Определение для каждого пользователя топ 10 продуктов  
 `prepare_dataset` - Подготовка датасета  
-`prepare_coo_matrix_for_collaborative_filtering` - Подготовка признаков для коллаборативной фильтрации  
+`prepare_coo_matrix_for_collaborative_filtering` - Подготовка разряженной матрицы для коллаборативной фильтрации  
 `train_collaborative_filtering` - Обучение для коллаборативной фильтрации  
 `inference_collaborative_filtering` - Инференс для коллаборативной фильтрации  
 `prepare_features_for_lightFM` - Подготовка признаков для lightFM  
-`prepare_coo_matrix_for_lightFM` - Подготовка признаков для lightFM  
+`prepare_coo_matrix_for_lightFM` - Подготовка разряженной матрицы для lightFM  
 `train_lightFM` - Обучение lightFM  
 `inference_lightFM` - Инференс lightFM  
   
